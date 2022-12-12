@@ -1,0 +1,5 @@
+git init -> esse comando cria um repositório local dentro do pasta onde ele foi rodado
+git remote add origin https://github.com/jottaEme/Javascript-TiposPrimitivos.git -> Esse comando associa esse repositório local a um já criado no GitHub ou GitLab
+git add . -> Esse comando adiciona todas as alterações locais (prepara para ser enviado ao repositório na nuvem)
+git commit -m "Mensagem" -> Mensagem do commit
+git push origin master -> envia as alterações preparadas e comitadas nos comandos acima ao repositório na nuvem na branch master
